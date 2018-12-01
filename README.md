@@ -1,2 +1,2 @@
 # MachineLearningTrial
-Trial sace for keras experiments
+Trial space for keras experiments
